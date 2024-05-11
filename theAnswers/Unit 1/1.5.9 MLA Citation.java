@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class Citation
-{
+public class Citation{
+    
     public static void main(String[] args)
     {
         // Start here!
